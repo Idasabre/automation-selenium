@@ -2,4 +2,3 @@ chromedriver_win32/
 selenium-swaglab-v1/
 ChromeTest/
 *.exe
-*copy.cs

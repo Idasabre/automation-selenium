@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "d7l7oNkGF+k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\selenium-swaglab\\selenium-swaglab.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\c#-swaglab\\c#-swaglab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

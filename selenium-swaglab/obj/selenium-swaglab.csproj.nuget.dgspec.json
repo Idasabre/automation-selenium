@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\selenium-swaglab\\selenium-swaglab.csproj": {}
+    "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\c#-swaglab\\c#-swaglab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\selenium-swaglab\\selenium-swaglab.csproj": {
+    "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\c#-swaglab\\c#-swaglab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\selenium-swaglab\\selenium-swaglab.csproj",
-        "projectName": "selenium-swaglab",
-        "projectPath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\selenium-swaglab\\selenium-swaglab.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\c#-swaglab\\c#-swaglab.csproj",
+        "projectName": "c#-swaglab",
+        "projectPath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\c#-swaglab\\c#-swaglab.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\selenium-swaglab\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\c#-swaglab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

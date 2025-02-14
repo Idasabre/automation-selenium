@@ -17,7 +17,7 @@ namespace selenium_swaglab.PageObjects
 
         private By usernameField = By.Id("user-name");
         private By passwordField = By.XPath("//input[@id='password']");
-        private By loginButton = By.Id("login-button");
+        private By loginButton = By.cssSelector("#login-button");
 
         public void Login(string username, string password)
         {

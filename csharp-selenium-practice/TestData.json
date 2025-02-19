@@ -1,0 +1,12 @@
+{
+    "url": "https://testautomationpractice.blogspot.com/",
+    "name": "test",
+    "email": "test@example.com",
+    "phone": "0123456789",
+    "address": "No 123, test address",
+
+    "uploadFiles": {
+        "filepath1": "@'C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\csharp-selenium-practice\\TestSingleUpload.txt'",
+        "filepath2": "@'C:\\Users\\user\\Documents\\Automation\\automation-exercise\\c#_selenium\\csharp-selenium-practice\\TestMultipleUpload.txt'"
+    }
+}

@@ -12,13 +12,11 @@ namespace csharp_selenium_practice.Pages
         public PaginationWebTable(IWebDriver driver) { 
             this.driver = driver;
         }
-        
+
         public void CheckProductByName(string Name)
         {
             bool itemFound = false;
 
-            //while (!itemFound)
-            //{
             IList<IWebElement> pagination = driver.FindElements(By.XPath("//ul[@id='pagination']/li/a"));
             for (int pageIndex = 0; pageIndex < pagination.Count; pageIndex++) 
             {

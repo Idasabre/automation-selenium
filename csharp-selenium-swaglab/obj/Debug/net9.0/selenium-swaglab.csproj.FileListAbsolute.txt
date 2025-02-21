@@ -436,3 +436,6 @@ C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-se
 C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-swaglab\obj\Debug\net9.0\selenium-swaglab.pdb
 C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-swaglab\obj\Debug\net9.0\selenium-swaglab.genruntimeconfig.cache
 C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-swaglab\obj\Debug\net9.0\ref\selenium-swaglab.dll
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-swaglab\bin\Debug\net9.0\AngleSharp.dll
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-swaglab\bin\Debug\net9.0\ICSharpCode.SharpZipLib.dll
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-swaglab\bin\Debug\net9.0\WebDriverManager.dll

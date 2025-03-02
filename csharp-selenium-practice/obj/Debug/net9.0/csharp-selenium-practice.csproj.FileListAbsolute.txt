@@ -103,3 +103,12 @@ C:\Users\user\Documents\Automation\automation-exercise\c#_selenium\csharp-seleni
 C:\Users\user\Documents\Automation\automation-exercise\c#_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.pdb
 C:\Users\user\Documents\Automation\automation-exercise\c#_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.genruntimeconfig.cache
 C:\Users\user\Documents\Automation\automation-exercise\c#_selenium\csharp-selenium-practice\obj\Debug\net9.0\ref\csharp-selenium-practice.dll
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.AssemblyInfo.cs
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.sourcelink.json
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.dll
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\refint\csharp-selenium-practice.dll
+C:\Users\user\Documents\Automation\automation-exercise\csharp_selenium\csharp-selenium-practice\obj\Debug\net9.0\csharp-selenium-practice.pdb

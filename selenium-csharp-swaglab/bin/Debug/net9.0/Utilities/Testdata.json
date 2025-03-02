@@ -1,0 +1,14 @@
+﻿{
+  "config": {
+    "browser": "Chrome",
+    "url": "https://www.saucedemo.com/"
+  },
+  "user": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "products": [
+      "Sauce Labs Backpack",
+      "Sauce Labs Onesie"
+    ]
+  }
+ }

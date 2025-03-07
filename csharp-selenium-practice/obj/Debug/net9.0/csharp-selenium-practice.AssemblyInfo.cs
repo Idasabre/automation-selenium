@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-selenium-practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+955b5acece4c209ee8da68ce0daa09f02dd71c3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54bbd9eb54bbd00d2471a22aa6cbe6ad86e96aa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-selenium-practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-selenium-practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

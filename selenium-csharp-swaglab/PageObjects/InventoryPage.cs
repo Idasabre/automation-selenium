@@ -13,6 +13,7 @@ namespace selenium_csharp_swaglab.PageObjects
     class InventoryPage : Base
     {
         private IWebDriver driver;
+
         private WebDriverWait wait;
 
         //locators
@@ -36,7 +37,7 @@ namespace selenium_csharp_swaglab.PageObjects
             return IsDisplayed;
         }
 
-        public void SortItemsLowToHigh(string sortOption)
+        public void SortItems(string sortOption)
         {
             IWebElement dropDown = driver.FindElement(sortDropdown);
             SelectElement select = new SelectElement(dropDown);
@@ -46,9 +47,9 @@ namespace selenium_csharp_swaglab.PageObjects
 
         public List<(string, string)> AddItemsToCart()
         {
-            
+
             List<(string, string)> productDetails = new List<(string, string)>();
-            
+
             var productNames = driver.FindElements(prodName);
             var cheapestItemName = productNames.First().Text;
 

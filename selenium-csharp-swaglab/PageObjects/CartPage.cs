@@ -20,14 +20,14 @@ namespace selenium_csharp_swaglab.PageObjects
 
         public void NavigateToCart()
         {
-            driver.FindElement(cartLocator).Click(); 
+            driver.FindElement(cartLocator).Click();
         }
 
         public List<string> VerifyItemInCart()
         {
             List<string> cartProductNames = new List<string>();
             IList<IWebElement> cartTable = driver.FindElements(itemLabelName);
-            
+
             foreach (IWebElement item in cartTable)
             {
                 string ProductName = item.Text;

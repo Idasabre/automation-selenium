@@ -1,54 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\selenium-csharp-swaglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-swaglab.csproj|solutionrelative:selenium-csharp-swaglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\utilities\\extentreporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:utilities\\extentreporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\pageobjects\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:pageobjects\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\tests\\e2e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:tests\\e2e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\utilities\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:utilities\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\pageobjects\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:pageobjects\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\tests\\e2e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:tests\\e2e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\tests\\smoketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:tests\\smoketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\tests\\e2e_datadriven_testcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:tests\\e2e_datadriven_testcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\pageobjects\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:pageobjects\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:selenium-csharp-swaglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\tests\\e2e_datadriven_jsonfiley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:tests\\e2e_datadriven_jsonfiley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\utilities\\testdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:utilities\\testdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\utilities\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:utilities\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{95E53BF8-CD5A-45A5-AE88-92EAFA323A59}|selenium-csharp-pom.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|c:\\users\\user\\documents\\automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AFABD3FF-586E-49A0-A0CE-62232B36142D}|selenium-csharp-swaglab.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "E2E_DataDriven_TestCaseSource.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Tests\\E2E_DataDriven_TestCaseSource.cs",
-              "RelativeDocumentMoniker": "Tests\\E2E_DataDriven_TestCaseSource.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Tests\\E2E_DataDriven_TestCaseSource.cs",
-              "RelativeToolTip": "Tests\\E2E_DataDriven_TestCaseSource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T09:54:02.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "E2E.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Tests\\E2E.cs",
-              "RelativeDocumentMoniker": "Tests\\E2E.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Tests\\E2E.cs",
-              "RelativeToolTip": "Tests\\E2E.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Title": "SmokeTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Tests\\SmokeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\SmokeTest.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Tests\\SmokeTest.cs",
+              "RelativeToolTip": "Tests\\SmokeTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:59:39.562Z",
+              "WhenOpened": "2025-03-06T08:00:15.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CheckoutPage.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\CheckoutPage.cs",
-              "RelativeDocumentMoniker": "PageObjects\\CheckoutPage.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\CheckoutPage.cs",
-              "RelativeToolTip": "PageObjects\\CheckoutPage.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\PageObjects\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\InventoryPage.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\PageObjects\\InventoryPage.cs",
+              "RelativeToolTip": "PageObjects\\InventoryPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T05:45:22.049Z",
+              "WhenOpened": "2025-03-06T07:48:36.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InventoryPage.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\InventoryPage.cs",
-              "RelativeDocumentMoniker": "PageObjects\\InventoryPage.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\InventoryPage.cs",
-              "RelativeToolTip": "PageObjects\\InventoryPage.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T02:54:52.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\PageObjects\\LoginPage.cs",
               "RelativeDocumentMoniker": "PageObjects\\LoginPage.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\PageObjects\\LoginPage.cs",
               "RelativeToolTip": "PageObjects\\LoginPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:58:31.813Z",
+              "WhenOpened": "2025-03-06T07:45:41.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CartPage.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\CartPage.cs",
-              "RelativeDocumentMoniker": "PageObjects\\CartPage.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\PageObjects\\CartPage.cs",
-              "RelativeToolTip": "PageObjects\\CartPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Title": "E2E.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Tests\\E2E.cs",
+              "RelativeDocumentMoniker": "Tests\\E2E.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Tests\\E2E.cs",
+              "RelativeToolTip": "Tests\\E2E.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv3AAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:06:27.625Z",
+              "WhenOpened": "2025-03-06T07:44:53.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScreenshotHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Utilities\\ScreenshotHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\ScreenshotHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Utilities\\ScreenshotHelper.cs",
+              "RelativeToolTip": "Utilities\\ScreenshotHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:41:28.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "selenium-csharp-pom.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\selenium-csharp-swaglab.csproj",
-              "RelativeDocumentMoniker": "selenium-csharp-swaglab.csproj",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\selenium-csharp-swaglab.csproj",
-              "RelativeToolTip": "selenium-csharp-swaglab.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T03:52:12.595Z",
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Utilities\\Base.cs",
+              "RelativeDocumentMoniker": "Utilities\\Base.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Utilities\\Base.cs",
+              "RelativeToolTip": "Utilities\\Base.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:35:29.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtentReportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Utilities\\ExtentReportHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\ExtentReportHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\Utilities\\ExtentReportHelper.cs",
+              "RelativeToolTip": "Utilities\\ExtentReportHelper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:54:48.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Utilities\\Base.cs",
-              "RelativeDocumentMoniker": "Utilities\\Base.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Utilities\\Base.cs",
-              "RelativeToolTip": "Utilities\\Base.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T03:55:15.957Z",
+              "Title": "selenium-csharp-swaglab.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj",
+              "RelativeDocumentMoniker": "selenium-csharp-swaglab.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj",
+              "RelativeToolTip": "selenium-csharp-swaglab.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T03:11:49.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "E2E_DataDriven_JSONFiley.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Tests\\E2E_DataDriven_JSONFiley.cs",
-              "RelativeDocumentMoniker": "Tests\\E2E_DataDriven_JSONFiley.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Tests\\E2E_DataDriven_JSONFiley.cs",
-              "RelativeToolTip": "Tests\\E2E_DataDriven_JSONFiley.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T04:57:15.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TestDataReader.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Utilities\\TestDataReader.cs",
-              "RelativeDocumentMoniker": "Utilities\\TestDataReader.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Utilities\\TestDataReader.cs",
-              "RelativeToolTip": "Utilities\\TestDataReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T04:34:08.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Testdata.json",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Utilities\\Testdata.json",
-              "RelativeDocumentMoniker": "Utilities\\Testdata.json",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\Utilities\\Testdata.json",
-              "RelativeToolTip": "Utilities\\Testdata.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T04:34:32.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-pom\\App.config",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-27T08:21:27.012Z",
+              "WhenOpened": "2025-03-06T03:13:42.897Z",
               "EditorCaption": ""
             }
           ]

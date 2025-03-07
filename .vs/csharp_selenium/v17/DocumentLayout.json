@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "selenium-csharp-swaglab.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj",
+              "RelativeDocumentMoniker": "selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\Automation\\automation-exercise\\csharp_selenium\\selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj",
+              "RelativeToolTip": "selenium-csharp-swaglab\\selenium-csharp-swaglab.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T01:49:08.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

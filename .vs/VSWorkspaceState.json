@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\selenium-csharp-swaglab",
+    "\\selenium-csharp-swaglab\\Tests"
   ],
-  "SelectedNode": "\\csharp-selenium-practice",
+  "SelectedNode": "\\selenium-csharp-swaglab\\selenium-csharp-swaglab.sln",
   "PreviewInSolutionExplorer": false
 }
